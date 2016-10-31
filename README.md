@@ -12,9 +12,13 @@ Note: You will have to change the location of the application (Windows) based on
 Note: This project has a number of dependencies which you will have to install,like chatterbot etc. You have to install all these
 You can use the normal pip install command to do this.
 <<<<<<< HEAD
+<<<<<<< HEAD
 For example,if you have to install chatterbot type :
 =======
 For example,you have to install chatterbot type :
+>>>>>>> upstream/master
+=======
+For example,if you have to install chatterbot type :
 >>>>>>> upstream/master
 > pip install chatterbot
 
